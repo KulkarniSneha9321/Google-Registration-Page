@@ -4,7 +4,7 @@ body{
     justify-content: center;
     font-family: "Google Sans", roboto, "Noto Sans Myanmar UI", arial, sans-serif;
     font-weight: 400;
-    background-color: #f0f4f9;
+    background-color: #ffffff;
    
 }
 
@@ -30,10 +30,6 @@ form{
     font-weight: 400;
     font:14px;
 }
-
-
-
-
 
 mat-form-field{
     width:400px;
@@ -135,3 +131,12 @@ span{
     background-color: transparent;
 
 }
+.example-form-field {
+    margin-right: 20px;
+}
+.btm{
+    height:2px;
+    align-items: center;
+    background-color: #F0F4F9;
+    width:140px;
+ }
